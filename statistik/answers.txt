@@ -1,0 +1,20 @@
+Wie verändert sich der Informationsgehalt des Bildes (die Entropie),wenn Sie
+
+(a)  die Helligkeit des Bildes ändern?
+
+    - die Entropie verringert sich, jedoch erst bei einer Helligkeitsänderung von ca. 63,
+      sowohl + als auch -, also in beide Richtungen
+
+(b)  den Kontrast des Bildes ändern?
+
+    - sie verringert sich ebenfalls in beide Richtungen, bei + ab ca. 2.0
+    und zur anderen Seite liegt er bei 0.1 bereits bei 3.4
+    - verringert die Entropie also schneller als bei einer Helligkeitsänderung
+
+(c)  den Gamma-Wert ausgehend von 1.0 von ändern?
+
+    - verringert die Entropie sehr schnell, bereits bei einer Änderung von +- 0.1 bis 0.2
+
+(d)  den Autokontrast anwenden?
+
+    - hab ich leider nicht geschafft zu implementieren 
